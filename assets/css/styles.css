@@ -1,0 +1,71 @@
+@import url('padrao-reset.css');
+
+body {
+    background: #000000;
+    width: 1440px;
+    height: 2491px;
+    top: -225px;
+    left: 709px;
+}
+h1{
+    font-family: Raleway;
+    font-size: 40px;
+    font-weight: 900;
+    line-height: 47px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 434px;
+    height: 47px;
+    background: linear-gradient(180deg, #33A8DB 0%, #1472B7 100%);
+
+}
+#transform-world{
+    width: 1440px;
+    height: 363px;
+    top: 1138px;
+    border: 1px, 1px, 1px, 0px;
+    border-width: 1px, 1px, 1px, 0px;
+    border-style: solid;
+    border-color: #33A8DB;
+}
+#professional-challenges img {
+    width: 659px;
+    height: 429px;
+    top: 1685px;
+    left: 390px;
+}
+
+.dio-logo{
+    width: 310px;
+    height: 44px;
+    top: 59px;
+    left: 565px;
+
+}
+.dio-logo p{
+    width: 259px;
+    height: 19px;
+    top: 113px;
+    left: 591px;
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: center;
+
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: center;
+    background: linear-gradient(0deg, #33A8DB, #33A8DB),
+    linear-gradient(0deg, #FFFFFF, #FFFFFF);
+
+}
+footer {
+    width: 1440px;
+    height: 170px;
+    top: 2321px;
+}
